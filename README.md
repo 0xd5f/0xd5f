@@ -1,5 +1,5 @@
 ### Hi there 👋
-Welcome to my GitHub account. I am a developer of open source projects in C# C++. I like to develop libraries and applications that will make it easier for other developers to use my tools to write their own programs. All my projects can be viewed in my profile!
+**Welcome to my GitHub account. I am a developer of open source projects in C# C++. I like to develop libraries and applications that will make it easier for other developers to use my tools to write their own programs. All my projects can be viewed in my profile!**
 
 
 - 💰 How to support me:
