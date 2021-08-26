@@ -3,7 +3,7 @@ Welcome to my GitHub account. I am a developer of open source projects in C# C++
 
 
 - 💰 How to support me:
-- 💛 QIWI: NEKIPLAY
+- 💛 QIWI: DARKPIXEL
 - 📫 How to reach me:
 - ✔️ Telegram: @OxD5F
 - ✔️ VKontakte: @0xd5f
