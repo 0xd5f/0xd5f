@@ -8,8 +8,7 @@
 - ✔️ Telegram: @OxD5F
 - ✔️ VKontakte: @0xd5f
 
-
-
+[![YT](https://img.shields.io/youtube/channel/subscribers/UCcJLqabug3gG46GffFtkgFw?color=red&logo=youtube&style=flat-square)](https://www.youtube.com/channel/UCcJLqabug3gG46GffFtkgFw)
 
 <!--
 **0xd5f/0xd5f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
