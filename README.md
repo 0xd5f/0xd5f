@@ -29,6 +29,5 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xd5f&layout=compact)](https://github.com/0xd5f/github-readme-stats)
 
-
 ![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
 
