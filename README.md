@@ -75,6 +75,10 @@ Here are some ideas to get you started:
     <img height="124px" src="https://github-readme-streak-stats.herokuapp.com/?user=0xd5f&hide_border=true&theme=dark" />
     <img height="124px" src="https://github-readme-stats.vercel.app/api?username=0xd5f&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&hide_rank=true&icon_color=fa8b00&theme=dark" />
 
+## 🏆 GITHUB PROFILE TROPHY 
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=0xd5f&margin-w=25&margin-h=25&column=7&theme=darkhub" />    
+</p>
 
 
 
