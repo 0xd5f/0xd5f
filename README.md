@@ -7,6 +7,7 @@
 - 📫 How to reach me:
 - ✔️ Telegram: @OxD5F
 - ✔️ VKontakte: @0xd5f
+[![Discord](assets/discord_logo.png)](https://discord.gg/gV9SvSDryu)
 
 <p align="center">
   <a href="https://github.com/0xd5f?tab=repositories&sort=stargazers">
