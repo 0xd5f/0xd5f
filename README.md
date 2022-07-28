@@ -1,13 +1,10 @@
-### Hi there 👋
-**Welcome to my GitHub account. I am a developer of open source projects in C# C++. I like to develop libraries and applications that will make it easier for other developers to use my tools to write their own programs. All my projects can be viewed in my profile!**
 
 
-- 💰 How to support me:
-- 💛 QIWI: DARKPIXEL
-- 📫 How to reach me:
-- ✔️ Telegram: @OxD5F
-- ✔️ VKontakte: @0xd5f
-[![Discord](assets/discord_logo.png)](https://discord.gg/gV9SvSDryu)
+<p align="center">
+<a href="https://discord.gg/gV9SvSDryu">
+  <img src="https://a.radikal.host/2022/07/28/Discord-Banner-Rifle-Shot-Render-v1.31c06c3a43184a704.gif">
+</a></p>
+
 
 <p align="center">
   <a href="https://github.com/0xd5f?tab=repositories&sort=stargazers">
@@ -81,7 +78,6 @@ Here are some ideas to get you started:
 <p align="center">
     <img height="124px" src="https://github-readme-streak-stats.herokuapp.com/?user=0xd5f&hide_border=true&theme=dark" />
     <img height="124px" src="https://github-readme-stats.vercel.app/api?username=0xd5f&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&hide_rank=true&icon_color=fa8b00&theme=dark" />
-
 
 
 
