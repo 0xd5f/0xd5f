@@ -1,7 +1,7 @@
 
 
 <p align="center">
-<a href="https://discord.gg/gV9SvSDryu">
+<a href="https://discord.gg/jwxmTpzu6k">
   <img src="https://a.radikal.host/2022/07/28/Discord-Banner-Rifle-Shot-Render-v1.31c06c3a43184a704.gif">
 </a></p>
 
