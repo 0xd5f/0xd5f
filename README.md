@@ -1,18 +1,3 @@
-<div align="center">
- <img src="https://github.com/issuimo/issuimo/blob/output/github-contribution-grid-snake.svg" />
- <table>
-   <tr>
-     <td rowspan=2> <img src="https://github.com/issuimo/issuimo/blob/main/github-metrics.svg" /> </td>
-     <td> 
-	     <img src="https://github.com/issuimo/issuimo/blob/main/metrics.plugin.isocalendar.fullyear.svg" /> 
-     </td>
-   </tr>
-	<tr>
-		<td><img src="https://github.com/issuimo/issuimo/blob/main/metrics.plugin.languages.svg" /></td> 
-	</tr>
- </table>
-</div>
-<hr/>
 
 <p align="center">
 <a href="https://discord.gg/jwxmTpzu6k">
@@ -100,3 +85,19 @@ Here are some ideas to get you started:
 <img src="https://count.getloli.com/get/@0xd5f?theme=rule34"/>
 
 </p>
+
+<div align="center">
+ <img src="https://github.com/0xd5f/0xd5f/blob/output/github-contribution-grid-snake.svg" />
+ <table>
+   <tr>
+     <td rowspan=2> <img src="https://github.com/0xd5f/issuimo/blob/main/github-metrics.svg" /> </td>
+     <td> 
+	     <img src="https://github.com/0xd5f/0xd5f/blob/main/metrics.plugin.isocalendar.fullyear.svg" /> 
+     </td>
+   </tr>
+	<tr>
+		<td><img src="https://github.com/0xd5f/0xd5f/blob/main/metrics.plugin.languages.svg" /></td> 
+	</tr>
+ </table>
+</div>
+<hr/>
