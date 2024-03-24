@@ -81,9 +81,7 @@ Here are some ideas to get you started:
 ## ⚡ GitHub Views
 
 <p align="center">
-
 <img src="https://count.getloli.com/get/@0xd5f?theme=rule34"/>
-<img src="https://github.com/0xd5f/0xd5f/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 
